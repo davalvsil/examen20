@@ -4,10 +4,10 @@ public class clase{
 	private Integer numerito;
 	
 	public clase(){
-		this numerito = 69;
+		this.numerito = 69;
 	}
 	
-	public getNumerito(){
-		return this numerito;
+	public Integer getNumerito(){
+		return.this numerito;
 	}
 }
