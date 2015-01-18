@@ -1,8 +1,13 @@
 import java.util.*;
 
 public class clase{
-	private String cadena;
+	private Integer numerito;
 	
 	public clase(){
+		this numerito = 69;
+	}
+	
+	public getNumerito(){
+		return this numerito;
 	}
 }
